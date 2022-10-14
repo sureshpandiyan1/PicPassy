@@ -10,7 +10,7 @@ PicPassy is a modern way to store your password in a picture file. It can save y
 
 
 # stored password picture
-    your stored password picture can be any random size..okey..
+    your stored password picture can be any random size..
 
 ![picpassy1](https://user-images.githubusercontent.com/112636345/195846428-4c037b2e-3059-45ba-a8ac-7739defd2079.jpg)
 
