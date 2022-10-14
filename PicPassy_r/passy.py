@@ -32,7 +32,6 @@ def regsz_passer(f,passer):
     draw = ImageDraw.Draw(cupuserimg)
     text = " "
     font = ImageFont.truetype('arial.ttf',24)
-    tw, th = draw.textsize(text,font)
     draw.text((w/12,h/3), text, font=font)
     cupuserimg.save('ignore.jpg')
     srt_wrt(f+".jpg",passer)
