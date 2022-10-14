@@ -5,7 +5,7 @@ PicPassy is a modern way to store your password in a picture file. It can save y
 # how to run
     py -3 setup.py
 
-    
+
 # stored password picture
 
 
